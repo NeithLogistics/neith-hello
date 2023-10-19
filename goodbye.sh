@@ -1,2 +1,2 @@
-echo "Bye Bye👋 but first Hello! from v3! Yet Again!"
-echo "cardinal was here!"
+echo "Hello from Neith Logistics! This is the v3 of the Action that is being used!"
+
